@@ -6,3 +6,8 @@ __FEATURES__
 
 - Automatically appends the necessary lines to the hosts file.
 - Prevents duplicate entries by verifying existing lines in the file.
+
+## Contact
+If you have any questions, suggestions, or just want to connect:
+- Discord : @SJXHUD
+- Telegram : @freesiyah
