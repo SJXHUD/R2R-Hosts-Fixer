@@ -9,5 +9,5 @@ __FEATURES__
 
 ## Contact
 If you have any questions, suggestions, or just want to connect:
-- Discord : @SJXHUD
-- Telegram : @freesiyah
+- Discord : @gamestate
+- Telegram : @patchguard
